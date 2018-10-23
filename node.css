@@ -1,0 +1,45 @@
+img{
+  width:100px;
+  background-color: #343a40;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.bacon{
+  background-color: #343a40
+}
+
+p{
+  text-align: center;
+}
+
+.borg{
+  font-size: 12px
+}
+
+.links{
+  text-align: center;
+}
+
+main{
+  padding-top: 50px;
+  padding-bottom: 100px;
+  background-color: white;
+}
+
+.foot{
+  background-color: #343a40;
+  color: white;
+}
+
+body{
+  background-color: #343a40;
+}
+
+@media(max-width: 1000px){
+  .btn-lg{
+    background-color: orange
+  }
+}
